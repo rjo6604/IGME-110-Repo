@@ -9,6 +9,6 @@
 - stop
 - stop
 
-- rit.edu
+- https://www.rit.edu/
 
-- [You can click on this one!] (rit.edu) 
+- [You can click on this one!] (https://www.rit.edu/)
