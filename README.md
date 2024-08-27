@@ -9,7 +9,6 @@
 - stop
 - stop
 
-rit.edu
+- rit.edu
 
-[You can click on this one!] (rit.edu) 
-!(freakbob) []
+- [You can click on this one!] (rit.edu) 
