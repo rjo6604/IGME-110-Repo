@@ -13,3 +13,4 @@
 
 - [You can click on this one!](https://www.rit.edu/)
 - ![hi](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/c9/51/dac9513d-8123-2411-fe7f-f415890cab3e/artwork.jpg/1200x1200bb.jpg)
+- ![image mdoe](https://github.com/rjo6604/IGME-110-Repo/blob/main/folder-name/images/images/cassie.jpg)
